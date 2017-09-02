@@ -2,7 +2,7 @@
   "name": "gruffalo",
   "version": "1.0.0",
   "description": "My favourite food. You'll taste good on a slice of bread.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
